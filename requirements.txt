@@ -1,0 +1,7 @@
+langchain==0.2.11
+langchain-community==0.2.10
+openai==1.37.1
+pandas==2.2.2
+python-dotenv==1.0.1
+streamlit==1.37.0
+streamlit-chart-js==0.0.6
